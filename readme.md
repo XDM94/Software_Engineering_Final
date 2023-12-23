@@ -6,3 +6,4 @@
 - languages.py - список поддерживаемых языков
 
 Функционал (фичи/косяки) аналогичны самому Google Translate; с нашим проектом можно по-кулхакерски что-то переводить прямо по ссылке на streamlit - это довольно удобно.
+Ссылка на переводчик: https://softwareengineeringfinal-translator-app.streamlit.app/
