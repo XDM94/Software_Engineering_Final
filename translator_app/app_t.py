@@ -1,6 +1,6 @@
 import streamlit as st
 from googletrans import Translator
-import languages
+from languages import languages
 
 st.title("Переводчик текста")
 source_text = st.text_area("Введите текст для перевода:")
