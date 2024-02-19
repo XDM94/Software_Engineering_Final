@@ -1,4 +1,4 @@
-# Список языков для передачи в selectbox (метод из библиотеки steamlit) и дальнейшей передачи в translator
+# Список языков для передачи в selectbox (steamlit) передачи в translator
 languages = [
     "Afrikaans",
     "Albanian",
